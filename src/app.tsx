@@ -6,7 +6,7 @@ import { ThemeProviderComponent } from 'core/theme';
 const App: React.FunctionComponent = () => {
   return (
     <ThemeProviderComponent>
-      <RouterComponent />;
+      <RouterComponent />
     </ThemeProviderComponent>
   );
 };
